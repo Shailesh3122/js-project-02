@@ -1,0 +1,2 @@
+When we move mouse to the left side amke the rectangle slow down the more mouse reaches to the left 
+and do the same when mouse goes to the rigth side.
